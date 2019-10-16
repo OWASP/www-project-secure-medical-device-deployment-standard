@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP secure medical device deployment standard
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
