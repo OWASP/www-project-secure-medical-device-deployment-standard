@@ -48,13 +48,13 @@ auto-migrated: 1
 </ul>
 <h2 id="download">Download</h2>
 <ul>
-<li><a href="https://www.owasp.org/images/9/95/OWASP_Secure_Medical_Devices_Deployment_Standard_7.18.18.pdf">Standard Version 2.0</a></li>
-<li><a href="https://www.owasp.org/images/c/c3/SecureMedicalDeviceDeployment.pdf">Standard Version 1.0</a></li>
-<li><a href="https://www.owasp.org/images/7/73/MedicalDevicePurchasing.pdf">Purchasing Assessment v1.0</a></li>
+<li><a href="/www-pdf-archive/OWASP_Secure_Medical_Devices_Deployment_Standard_7.18.18.pdf">Standard Version 2.0</a></li>
+<li><a href="/www-pdf-archive/SecureMedicalDeviceDeployment.pdf">Standard Version 1.0</a></li>
+<li><a href="/www-pdf-archive/MedicalDevicePurchasing.pdf">Purchasing Assessment v1.0</a></li>
 </ul>
 <h2 id="translations">Translations</h2>
 <ul>
-<li><a href="https://www.owasp.org/images/5/54/OWASP_-_G%C3%BCvenli_T%C4%B1bbi_Cihaz_Kurulum_Standard%C4%B1.pdf">Turkish</a></li>
+<li><a href="/www-pdf-archive/OWASP_-_G%C3%BCvenli_T%C4%B1bbi_Cihaz_Kurulum_Standard%C4%B1.pdf">Turkish</a></li>
 </ul>
 <h2 id="presentation">Presentation</h2>
 <ul>
@@ -124,7 +124,7 @@ help:
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
